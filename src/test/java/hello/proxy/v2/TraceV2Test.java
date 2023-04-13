@@ -1,6 +1,7 @@
 package hello.proxy.v2;
 
-import hello.proxy.app.util.TraceStatus;
+import hello.proxy.trace.TraceStatus;
+import hello.proxy.trace.TraceV2;
 import org.junit.jupiter.api.Test;
 
 class TraceV2Test {

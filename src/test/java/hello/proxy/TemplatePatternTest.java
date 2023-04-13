@@ -1,7 +1,7 @@
 package hello.proxy;
 
-import hello.proxy.app.template.AbstractTemplate;
-import hello.proxy.v3.LogTrace;
+import hello.proxy.trace.template.AbstractTemplate;
+import hello.proxy.trace.logtrace.LogTrace;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
